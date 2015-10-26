@@ -15,11 +15,11 @@ Ecology and Hydrology Department - University of Murcia (Spain)
 
 #### Mapas formato GeoTiff
 
-C09.tif Clasificación del año 2009
-C00.tif Clasificación del año 2000
-C97.tif Clasificación del año 1997
-C88.tif Clasificación del año 1988
++ C09.tif Clasificación del año 2009
++ C00.tif Clasificación del año 2000
++ C97.tif Clasificación del año 1997
++ C88.tif Clasificación del año 1988
 
 #### Leyenda
-Imagen: leyenda.png
-Estilo para cargarlo en Qgis: estilo_leyenda.qml
++ Imagen: leyenda.png
++ Estilo para cargarlo en Qgis: estilo_leyenda.qml
