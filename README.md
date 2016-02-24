@@ -2,6 +2,10 @@
 
 Mapas de usos y coberturas de la cuenca de drenaje del Mar Menor, obtenidos mediante clasificación supervisada de imágenes Landsat. En  "Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. M. Francisca Carreño Fructuoso. 2015
 
+### PhDThesis
+
+Documento completo de la tesis doctoral: PhdThesis2015MFCF.pdf
+
 ###Author
 
 Maria Francisca Carreño (mariafra # um.es)
@@ -21,5 +25,11 @@ Ecology and Hydrology Department - University of Murcia (Spain)
 + C88.tif Clasificación del año 1988
 
 #### Leyenda
+
 + Imagen: leyenda.png
 + Estilo para cargarlo en Qgis: estilo_leyenda.qml
+
+#### Licencia aplicada al documento y la cartografía
+
+Licencia.pdf
+
