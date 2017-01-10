@@ -19,7 +19,7 @@ M. Francisca Carreño, Jose Antonio Palazon, & Javier Martínez-López. (2015). 
 
 ### Documento completo (PhD Thesis).
 
-Carreño, M.F. 2015. Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España. DOI: 10.13140/RG.2.1.4807.6561
+Carreño, M.F. 2015. Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España. DOI: http://10.13140/RG.2.1.4807.6561
 
 ###Author
 
