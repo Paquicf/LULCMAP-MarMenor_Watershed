@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-### LULC Maps Mar Menor Watershed: 1988, 1997, 2000 & 2009
-aa
-=======
+
 ### 1988-2009 time-series of land-use/land-cover maps for the Mar Menor/Campo de Cartagena watershed by means of supervised classification of Landsat images.
 
->>>>>>> 26f1982b9fefefa8de32e4d82428a06020c24e60
 Mapas de usos y coberturas de la cuenca de drenaje del Mar Menor, obtenidos mediante clasificación supervisada de imágenes Landsat. 
 
 M. Francisca Carreño, Jose Antonio Palazon, & Javier Martínez-López. (2015). 1988-2009 time-series of land-use/land-cover maps for the Mar Menor / Campo de Cartagena watershed by means of supervised classification of Landsat images. Zenodo. http://doi.org/10.5281/zenodo.237068
