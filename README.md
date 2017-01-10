@@ -20,7 +20,8 @@ Serie de mapas de usos y coberturas de la cuenca del Mar Menor (SE España): 200
 
 #### PhD Thesis
 
-+ PhdThesis2015MFCF.pdf    DOI: http://10.13140/RG.2.1.4807.6561
++ PhdThesis2015MFCF.pdf   
+  http://10.13140/RG.2.1.4807.6561
 
 ###Author
 
