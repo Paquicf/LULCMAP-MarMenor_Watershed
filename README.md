@@ -2,7 +2,7 @@
 
 Mapas de usos y coberturas de la cuenca de drenaje del Mar Menor, obtenidos mediante clasificación supervisada de imágenes Landsat. 
 
-Carreño, M.F. 2015. Cartografía de usos y coberturas de la cuenca del Mar Menor, 1988 - 2009. En "Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España
+M. Francisca Carreño, Jose Antonio Palazon, & Javier Martínez-López. (2015). 1988-2009 time-series of land-use/land-cover maps for the Mar Menor / Campo de Cartagena watershed by means of supervised classification of Landsat images. Zenodo. http://doi.org/10.5281/zenodo.237068
 
 #### Mapas formato GeoTiff
 
@@ -19,9 +19,7 @@ Carreño, M.F. 2015. Cartografía de usos y coberturas de la cuenca del Mar Meno
 
 ### Documento completo (PhD Thesis).
 
-PhdThesis2015MFCF.pdf
-
-Carreño, M.F. 2015. Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España
+Carreño, M.F. 2015. Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España. DOI: 10.13140/RG.2.1.4807.6561
 
 ###Author
 
