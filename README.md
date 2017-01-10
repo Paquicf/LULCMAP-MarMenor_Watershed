@@ -1,5 +1,5 @@
 ### LULC Maps Mar Menor Watershed: 1988, 1997, 2000 & 2009
-
+aa
 Mapas de usos y coberturas de la cuenca de drenaje del Mar Menor, obtenidos mediante clasificación supervisada de imágenes Landsat. 
 
 Carreño, M.F. 2015. Cartografía de usos y coberturas de la cuenca del Mar Menor, 1988 - 2009. En "Seguimiento de los cambios de usos y su influencia en las comunidades y hábitats naturales en la cuenca del Mar Menor, 1988-2009, con el uso de SIG y Teledetección" PhDThesis. Universidad de Murcia. España
