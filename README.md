@@ -12,7 +12,7 @@ Serie de mapas de usos y coberturas de la cuenca del Mar Menor (SE España): 200
 + C97.tif Clasificación del año 1997
 + C88.tif Clasificación del año 1988
 
-#### Legenda
+#### Legend
 
 + Image: leyenda.png
 + Qgis style: estilo_leyenda.qml
